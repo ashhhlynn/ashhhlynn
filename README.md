@@ -2,7 +2,7 @@
 - 🔭 Experienced in Ruby on Rails, JavaScript, and React
 - 🌱 Currently learning Node.js 
 - 😄 Hobbies include tennis, film, literature, and fantasy football
-- 👨‍💻 My portfolio https://ashleylynn-portfolio.netlify.app/
+- 👨‍💻 Check out my <a href="https://ashleylynn-portfolio.netlify.app/">portfolio</a>
 
 <!--
 **ashhhlynn/ashhhlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
