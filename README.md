@@ -2,6 +2,7 @@
 - 🔭 Experienced in Ruby on Rails, JavaScript, React, and Node.js
 - 🌱 Currently learning Python 
 - 😄 Hobbies include tennis, film, literature, and fantasy football
+- :envelope: Contact me by <a href="mailto:ashleylynndev@gmail.com">Email</a>
 
 <!--
 **ashhhlynn/ashhhlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
